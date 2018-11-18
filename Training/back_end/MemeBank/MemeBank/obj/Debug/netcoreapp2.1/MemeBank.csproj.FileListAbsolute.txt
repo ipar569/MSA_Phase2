@@ -3,6 +3,7 @@ C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\M
 C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.dev.json
 C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.dll
 C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.pdb
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csprojAssemblyReference.cache
 C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csproj.CoreCompileInputs.cache
 C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cache
 C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cs

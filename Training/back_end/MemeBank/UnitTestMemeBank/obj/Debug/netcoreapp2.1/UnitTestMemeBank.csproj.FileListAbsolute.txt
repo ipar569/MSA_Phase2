@@ -1,0 +1,17 @@
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.deps.json
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.runtimeconfig.json
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.runtimeconfig.dev.json
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.dll
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.pdb
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\MemeBank.dll
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\bin\Debug\netcoreapp2.1\MemeBank.pdb
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.csprojAssemblyReference.cache
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.csproj.CoreCompileInputs.cache
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.AssemblyInfoInputs.cache
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.AssemblyInfo.cs
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.csproj.CopyComplete
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.dll
+C:\Users\injae\Desktop\2018\MSA\MSA_phase2\phase2\MSA_Phase2\Training\back_end\MemeBank\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.pdb
